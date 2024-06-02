@@ -1,7 +1,5 @@
 <h1>Redux Toolkit CRUD Project<h1>
 
-<p>redux toolkit crud</p>
-
 <h2>Used Technologies</h2>
 
 <ul>
